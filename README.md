@@ -13,6 +13,17 @@ Se ainda não possui o Go instalado, faça o download da ferramenta pelo link ab
 
 [🔗 Download Go](https://go.dev/dl/)
 
+Ou para maq Windows executar o comando 
+```powershell
+winget install GoLang.Go
+```
+
+Para verificar se foi instalado corretamente
+```powershell
+go version
+```
+
+
 <!--
 ## 📂 Estrutura do Repositório
 - `src/`: Códigos-fonte e exemplos práticos.
